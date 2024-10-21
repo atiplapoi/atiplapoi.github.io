@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atiplapoi.github.io/atiplapoi.txt.gz
+Sitemap: https://atiplapoi.github.io/app/atiplapoi.txt.gz
+Sitemap: https://atiplapoi.github.io/assets/atiplapoi.txt.gz
+Sitemap: https://atiplapoi.github.io/css/atiplapoi.txt.gz
+Sitemap: https://atiplapoi.github.io/includes/atiplapoi.txt.gz
+Sitemap: https://atiplapoi.github.io/item/atiplapoi.txt.gz
+Sitemap: https://atiplapoi.github.io/src/atiplapoi.txt.gz
